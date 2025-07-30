@@ -34,7 +34,7 @@ I'm a Computer Science student at the University of Texas at Arlington with a pa
 
 ## 💼 Current Role
 
-**Software Engineer Intern** @ Software & Application Innovation Lab
+**Software Engineer Intern** @ [Software & Application Innovation Lab] (
 - Built React laboratory management system processing 20+ orders daily
 - Architected NestJS/TypeScript backend with GraphQL reducing over-fetching by 60%
 - Deployed containerized applications on OpenShift with 30% faster release cycles
@@ -81,7 +81,7 @@ Real-time crisis monitoring system
 
 ## 🔍 Research Experience
 
-**Machine Learning Research Assistant** @ CyberGuard Research
+**Machine Learning Research Assistant** @ [CyberGuard Research](https://fhshezan.github.io/cgrl.html)
 - Developed hybrid audio classification model for VR security applications
 - **80% accuracy** with 0.7 F1 score in detecting VR headset data leaks
 - **15% improvement** through model fusion techniques
