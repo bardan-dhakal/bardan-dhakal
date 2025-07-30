@@ -42,19 +42,19 @@ I'm a Computer Science student at the University of Texas at Arlington with a pa
 
 ## 🔬 Featured Projects
 
-### 🚀 [ZeroLock Allocator](https://github.com/bardan-dhakal)
+### 🚀 [ZeroLock Allocator]((https://github.com/bardan-dhakal/ZeroLock-Allocator)
 High-performance lock-free memory allocator in C++17/20
 - **10x faster** allocation speed than malloc
 - **Zero thread contention** across 16+ concurrent threads
 - **85% reduction** in memory fragmentation
 
-### ⚡ [ML PowerCast](https://github.com/bardan-dhakal)
+### ⚡ [ML PowerCast](https://github.com/bardan-dhakal/ML-PowerCast)
 Full-stack energy forecasting application
 - **90% accuracy** in US energy demand prediction using XGBoost
 - **Real-time inference** with Flask REST API and React frontend
 - **Production deployment** on AWS EC2 with CI/CD pipeline
 
-### 🎵 [Audio Insight](https://github.com/bardan-dhakal)
+### 🎵 [Audio Insight](https://github.com/bardan-dhakal/audio-insight)
 AI-powered audio analysis with RAG architecture
 - **Interactive Q&A** from MP3 audio files
 - **Vector embedding pipeline** with Sentence Transformers & Pinecone
