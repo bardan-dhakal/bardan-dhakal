@@ -42,7 +42,7 @@ I'm a Computer Science student at the University of Texas at Arlington with a pa
 
 ## 🔬 Featured Projects
 
-### 🚀 [ZeroLock Allocator]((https://github.com/bardan-dhakal/ZeroLock-Allocator)
+### 🚀 [ZeroLock Allocator](https://github.com/bardan-dhakal/ZeroLock-Allocator)
 High-performance lock-free memory allocator in C++17/20
 - **10x faster** allocation speed than malloc
 - **Zero thread contention** across 16+ concurrent threads
