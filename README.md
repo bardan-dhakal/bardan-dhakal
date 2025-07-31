@@ -34,7 +34,7 @@ I'm a Computer Science student at the University of Texas at Arlington with a pa
 
 ## 💼 Current Role
 
-**Software Engineer Intern** @ [Software & Application Innovation Lab] (https://github.com/hicsail)
+**Software Engineer Intern** @ [Software & Application Innovation Lab](https://github.com/hicsail)
 - Built React laboratory management system processing 20+ orders daily
 - Architected NestJS/TypeScript backend with GraphQL reducing over-fetching by 60%
 - Deployed containerized applications on OpenShift with 30% faster release cycles
