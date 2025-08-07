@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Texas at Arlington with a pa
 - 💼 **Software Engineer Intern** at Software & Application Innovation Lab
 - 🔬 **ML Research Assistant** with experience in audio classification and VR security
 - 🏆 **Award Winner**: Research Experiences for Undergraduates Funding & Maverick Academic Scholarship
-- 📍 **Based in**: Boston, MA
+- 📍 **Based in**: Boston, MA for the Summer
 
 ## 🛠️ Tech Stack
 
