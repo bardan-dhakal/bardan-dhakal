@@ -107,7 +107,7 @@
 
 ## 📊 GitHub Analytics
 
-![Bardan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bardan-dhakal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400&refresh)  
+![Bardan's Annual GitHub Stats](https://github-readme-stats.vercel.app/api?username=bardan-dhakal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400&refresh)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardan-dhakal&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400&refresh)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bardan-dhakal&theme=tokyonight&hide_border=true&mode=weekly)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bardan-dhakal&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)  
