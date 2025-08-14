@@ -16,6 +16,8 @@ I'm a **Computer Science student** at the University of Texas at Arlington (GPA:
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++17/20](https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,12 +28,21 @@ I'm a **Computer Science student** at the University of Texas at Arlington (GPA:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-00427E?style=for-the-badge&logo=boost&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 **Databases & Cloud**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -47,7 +58,7 @@ I'm a **Computer Science student** at the University of Texas at Arlington (GPA:
 ## 🔬 Featured Projects
 
 ### 🚀 [ZeroLock Allocator](https://github.com/bardan-dhakal/ZeroLock-Allocator)  
-🔹 **C++17/20 | Lock-free concurrency | Low-level memory management**  
+🔹 **C++17/20 | STL | Boost | Low-level memory management**  
 - Designed a **high-performance lock-free memory allocator** with zero thread contention  
 - **10× faster** than `malloc` with **85% less memory fragmentation**  
 - Scales efficiently to **16+ concurrent threads**  
