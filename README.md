@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bardan Dhakal
 
-🚀 **Computer Science student @ University of Texas at Arlington (GPA: 3.8/4.0)** — passionate about building **scalable systems**, **high-performance C++ software**, and **cutting-edge AI solutions**.  
+🚀 **Computer Science student @ University of Texas at Arlington (GPA: 3.8/4.0)** — passionate about building **scalable systems**, **high-performance and responsive software**, and **cutting-edge AI solutions**.  
 💼 **Software Engineer Intern** in Boston — delivering production-ready, full-stack applications with measurable performance improvements.  
 🔬 **ML Research Assistant** — developing audio classification systems and VR security tools with tangible accuracy boosts.
 
