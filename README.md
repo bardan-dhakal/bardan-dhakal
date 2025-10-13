@@ -63,10 +63,9 @@
 - **85% less memory fragmentation**
 
 ### ⚡ [ML PowerCast](https://github.com/bardan-dhakal/ML-PowerCast)  
-**Python | Flask | AWS | XGBoost**
+**Python | Flask | XGBoost**
 - **90% accuracy** in US energy demand prediction
 - Real-time inference with Flask REST API + React frontend
-- CI/CD deployment on AWS EC2
 
 ### 🎵 [Audio Insight](https://github.com/bardan-dhakal/audio-insight)  
 **Python | NLP | RAG Architecture**
